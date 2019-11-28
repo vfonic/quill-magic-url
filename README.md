@@ -1,3 +1,15 @@
+# NOTE!!!
+
+This is a temporary fork until the main repo gets properly converted to babel 7.
+
+To use this fork run:
+
+```
+yarn add https://github.com/vfonic/quill-magic-url#babel-7
+```
+
+Or the npm equivalent of the above command.
+
 # quill-magic-url
 
 Checks for URLs during typing and pasting and automatically converts them to links and normalizes the links URL.
